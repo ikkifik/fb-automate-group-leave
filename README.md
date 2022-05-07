@@ -23,3 +23,7 @@ This program required group list to defined inside file named 'targeted_group.tx
 ##### Run Program
     
     python leave_group.py --email <your_fb_email_account> --pwd <your_fb_password_account>  
+
+----
+
+Also see the preview: 

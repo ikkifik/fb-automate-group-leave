@@ -1,9 +1,4 @@
-LanguaLand 😎
-Kata Ensipedia
-Rekayasa Perangkat Lunak 1 SABA VOSCHO
-Komunitas AMD Indonesia
-Kelas Bahasa Arab Online Angkatan Pertama
-PHPID Market Place
-PHP Indonesia
-Japanese-English Language Exchange [ JELE ]
-SEKTE KARUNGAN
+Some_group_name1
+Some_group_name2
+Some_group_name3
+Some_group_name4
